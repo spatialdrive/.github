@@ -1,1 +1,1 @@
-Helping you build the next generation of collaborative 3D tools.
+Build the next generation of collaborative 3D tools.
